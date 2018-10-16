@@ -1,20 +1,21 @@
 h1 {
-  color: #00ffff;
   text-align: center;
-  font-size: 100px;
 }
 h2 {
   text-align: center;
 }
 ul {
   text-align: center;
+  list-style: none;
 }
 h3 {
   text-align: center;
   font-size: 30px;
 }
 img {
-  padding-left: 251px;
+ margin: 25%
+ width: 500px;
+ height: 500px;
 }
 h4 {
   text-align: center;
@@ -25,6 +26,7 @@ p {
 }
 ol {
   text-align: center;
+  list-style: none;
 }
 h5 {
   text-align: center;
@@ -33,6 +35,9 @@ h5 {
 .yes {
   text-align: center;
   font-family: cursive;
-  color: skyblue;
   font-size: 50px;
+}
+.darktheme {
+  background-color: black;
+  color: #F6F69A;
 }
